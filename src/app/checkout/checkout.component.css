@@ -1,0 +1,32 @@
+.checkout h1{
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 50px;
+}
+.checkout{
+    padding: 50px 0;
+}
+.Shoping h3{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.common-form textarea{
+    height: 100px;
+}
+
+.order-message{
+    color: green;
+    text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .totalamt{
+        text-align: center;
+        margin-top: 20px;
+        
+    }
+    .totalamt h3,h4{
+        font-size: 19px;
+    }
+}

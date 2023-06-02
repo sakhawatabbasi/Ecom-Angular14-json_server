@@ -1,1 +1,91 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  font-family: sans-serif;
+}
+.text-head {
+  text-align: center;
+  color: blueviolet;
+}
+.common-form {
+  text-align: center;
+  display: flex;
+  margin: auto;
+  flex-direction: column;
+  width: 300px;
+}
+.form-input {
+  height: 35px;
+  padding-left: 10px;
+  border: 1px solid blueviolet;
+  outline: none;
+  color: blueviolet;
+}
+.form-button {
+  height: 35px;
+  border: 1px solid blueviolet;
+  color: blueviolet;
+  font-weight: bold;
+  cursor: pointer;
+}
+.form-button:hover {
+  height: 35px;
+  background-color: blueviolet;
+  color: white;
+}
+.p-message {
+  color: green;
+  text-align: center;
+}
+.d-message {
+  color: red;
+  text-align: center;
+  font-size: 20px;
+}
+
+.carousel-caption {
+  background-color: black;
+  color: white;
+  position: unset;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.carousel-control-next,
+.carousel-control-prev{
+ display: none;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+display: none;
+}
+
+.invalid-input{
+  color: red;
+  font-size: 10px;
+  text-align: left;
+}
+
+button:disabled {
+  cursor: not-allowed;
+}
+.error-p {
+  text-align: center;
+  color: red;
+}
+.quantity-group input {
+  text-align: center;
+}
+.picsum-img-wrapper {
+  margin-top: 70px;
+}
+.product-list-wrapper {
+  margin-top: 80px;
+}
+.product-list-wrapper h1 {
+  margin-bottom: 30px;
+  margin-top: 50px;
+}
+
+.carousel-indicators [data-bs-target]{
+  display: none !important;
+}

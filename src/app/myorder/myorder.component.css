@@ -1,0 +1,25 @@
+.my-order {
+    padding: 100px 0;
+}
+.my-order h1{
+margin-top: 50px;
+margin-bottom: 50px;
+}
+.my-order .order-img{
+width: 50px;
+height: 50px;
+}
+.order-data{
+    border-bottom:1px solid #ddd ;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .my-order{
+        padding: 100px 0;
+    }
+   
+}

@@ -1,0 +1,12 @@
+h1{
+  padding: 160px 0 0 0; 
+    
+}
+.user-auth h1{
+    color: blueviolet;  
+    text-align: center; 
+}
+.user-auth a{
+    color: blueviolet;
+    cursor: pointer;
+}

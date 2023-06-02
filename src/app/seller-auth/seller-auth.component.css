@@ -1,0 +1,24 @@
+.auth-toggle-link {
+  margin-top: 20px;
+  color: blueviolet;
+  font-size: 14px;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+}
+.auth-toggle-link span {
+  color: black;
+}
+
+.auth-toggle-link:hover {
+  color: rgb(206, 98, 98);
+}
+.error {
+  color: red;
+}
+
+.ttp{
+  padding: 160px 0 0 0;
+  text-align: center;
+  color: blueviolet;
+}

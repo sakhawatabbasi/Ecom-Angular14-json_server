@@ -1,0 +1,148 @@
+{
+  "seller": [
+    {
+      "name": "Sakhawat Abbasi",
+      "password": "1234",
+      "Email": "sakhawatabbasi9@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "jamal",
+      "password": "asdf",
+      "Email": "jamal@seller.com",
+      "id": 2
+    },
+    {
+      "name": "kamran",
+      "password": "qwer",
+      "Email": "kam@seller.com",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "name": "iphon14 pro",
+      "price": "400000",
+      "color": "black",
+      "category": "apple",
+      "description": "excellent",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro.jpg",
+      "id": 1
+    },
+    {
+      "name": "loptop",
+      "price": "50000",
+      "color": "black",
+      "category": "hp",
+      "description": "good",
+      "image": "https://www.mega.pk/items_images/ts_24017.webp",
+      "id": 2
+    },
+    {
+      "name": "shose",
+      "price": "3000",
+      "color": "white",
+      "category": "nike",
+      "description": "amesing",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e6da41fa-1be4-4ce5-b89c-22be4f1f02d4/air-force-1-07-mens-shoes-jBrhbr.png",
+      "id": 3
+    },
+    {
+      "name": "OPPO A92",
+      "price": "60000",
+      "color": "blue",
+      "category": "andriod mobile",
+      "description": "this is oppo phone",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-a92-.jpg",
+      "id": 4
+    },
+    {
+      "name": "Bag",
+      "price": "2000",
+      "color": "black",
+      "category": "nike",
+      "description": "Nike bag",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/770d9331-01f1-488a-be7a-a0f89a752224/brasilia-95-training-backpack-medium-24l-zz5tL7.png",
+      "id": 5
+    },
+    {
+      "name": "bottel",
+      "price": "1000",
+      "color": "half-white",
+      "category": "nike",
+      "description": "wow",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/266220cc-b110-481b-bea1-46fe3dbce22f/refuel-water-bottle-24-oz-rdKW4K.png",
+      "id": 6
+    },
+    {
+      "name": "iphon14 pro",
+      "price": "400000",
+      "color": "black",
+      "category": "apple",
+      "description": "excellent",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro.jpg",
+      "id": 7
+    },
+    {
+      "name": "loptop",
+      "price": "50000",
+      "color": "black",
+      "category": "hp",
+      "description": "good",
+      "image": "https://www.mega.pk/items_images/ts_24017.webp",
+      "id": 8
+    },
+    {
+      "name": "shose",
+      "price": "3000",
+      "color": "white",
+      "category": "nike",
+      "description": "amesing",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e6da41fa-1be4-4ce5-b89c-22be4f1f02d4/air-force-1-07-mens-shoes-jBrhbr.png",
+      "id": 9
+    },
+    {
+      "name": "OPPO A92",
+      "price": "60000",
+      "color": "blue",
+      "category": "andriod mobile",
+      "description": "this is oppo phone",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oppo-a92-.jpg",
+      "id": 10
+    },
+    {
+      "name": "Bag",
+      "price": "2000",
+      "color": "black",
+      "category": "nike",
+      "description": "Nike bag",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/770d9331-01f1-488a-be7a-a0f89a752224/brasilia-95-training-backpack-medium-24l-zz5tL7.png",
+      "id": 11
+    },
+    {
+      "name": "bottel",
+      "price": "1000",
+      "color": "half-white",
+      "category": "nike",
+      "description": "wow",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/266220cc-b110-481b-bea1-46fe3dbce22f/refuel-water-bottle-24-oz-rdKW4K.png",
+      "id": 12
+    }
+  ],
+  "users": [
+    {
+      "name": "Sakhawat Abbasi",
+      "email": "sakhawatabbasi9@gmail.com",
+      "password": "asdf",
+      "id": 1
+    },
+    {
+      "name": "kamran",
+      "email": "kam@user.com",
+      "password": "asdf",
+      "id": 2
+    }
+  ],
+  "cart": [],
+  "orders": []
+}
